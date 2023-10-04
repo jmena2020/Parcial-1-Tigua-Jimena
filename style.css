@@ -1,0 +1,79 @@
+body{   
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+    text-align: center;
+
+
+}
+
+#menu{
+    display: none;
+}
+
+#menu ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+#menu ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+#menu ul li a{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+aside{
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+table{
+
+    width: 100%;
+    padding:20px;
+    
+
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+
+th, td{
+    padding: 10px;
+    text-align: center;
+}
+
+.fila1{
+    background-color: red;
+    color: white;
+}
+
+.fila2{
+    background-color: orange;
+    color: white;
+}
+
+.fila3{
+    background-color: yellow;
+    color: white;
+}
+
+.fila4{
+    background-color: green;
+    color: white;
+}
+
+.fila5{
+    background-color: blue;
+    color: white;
+}
